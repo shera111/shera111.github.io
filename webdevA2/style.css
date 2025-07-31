@@ -587,4 +587,8 @@ footer {
     h1::after {
         content: "\A(mobile)";
     }
+
+    #btnFS {
+        display: none;
+    }
 }
