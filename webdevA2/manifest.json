@@ -1,0 +1,15 @@
+{
+    "name": "A2 Butterfly App",
+    "short_name": "Butterfly",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#00FF00",
+    "icons": [
+        {
+            "src": "photo/icons8-butterfly-64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+    ]
+}
